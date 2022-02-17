@@ -17,7 +17,7 @@ conda env create -f myenv.yml
 
 ## Details
 
-### Details of SeNoCe folder
+### Details of gDART folder
  * The main model is kept inside the folder "gDART". Neural network model is written in "rumour_Transformer.py" which in turn invoke MHA.py where the actual MHA code is residing.
  * Execute "trainTestModel_Fast.py" file inside this folder to initite the program.
  * Results and required files will be saved under "repo_Fast" folder.
