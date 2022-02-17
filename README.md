@@ -48,7 +48,7 @@ conda env create -f myenv.yml
 
 ## gDART Architecture
 
-![](images/gDART.png)
+![](gDART.png)
 
 
 
