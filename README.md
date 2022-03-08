@@ -41,7 +41,7 @@ conda env create -f myenv.yml
  * lDART uses a stack of Encoders while leveraging the unique contextual correlations inside the final Encoder.
  * Follow the similar steps of gDART model to execute this variant
 
-### Details of gDART(BERT) folder
+### Details of gDART(BERT-fine tune) folder
  * This folder contains the implementaion of gDART with the pre-trained Fine-tuing BERT model.
  * We use BERT BASE version which has 12 encoders, 12 12 attention heads.
 
