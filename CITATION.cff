@@ -1,10 +1,1 @@
-cff-version: 1.2.0
-message: "If you use our implementation, please cite it as below."
-authors:
-  - family-names: Rana
-    given-names: Saswata Roy
-    orcid: https://orcid.org/0000-0002-0929-1786
-title: "gDART: Improving rumor verification in social media with Discrete Attention Representations"
-version: 2.0.4
-doi: 10.5281/zenodo.1234
-date-released: 2022-03-05
+
