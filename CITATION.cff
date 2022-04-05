@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Roy
+    given-names: Saswata
+    orcid: https://orcid.org/0000-0002-0929-1786
+title: "My Research Software"
+version: 2.0.4
+doi: 10.1016/j.ipm.2022.102927 
+date-released: 2021-08-11
