@@ -1,10 +1,10 @@
-@article{roy2022gdart,
-  title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
-  author={Roy, Saswata and Bhanu, Manish and Saxena, Shruti and Dandapat, Sourav and Chandra, Joydeep},
-  journal={Information Processing \& Management},
-  volume={59},
-  number={3},
-  pages={102927},
-  year={2022},
-  publisher={Elsevier}
-}
+cff-version: 1.2.0
+message: "If you use our implementation, please cite it as below."
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+    orcid: https://orcid.org/0000-0002-0929-1786
+title: "gDART: Improving rumor verification in social media with Discrete Attention Representations"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2022-03-05
