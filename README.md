@@ -2,6 +2,22 @@
 ## Introduction
 gDART is capable of capturing multifarious correlations veiled among the sequence of words which existing DNN models including Transformer often overlook. Our proposed framework uses a Branch-CoRR Attention Network to extract highly informative features in branches, and employs Feature Fusion Network Component to identify deep embedded features and use them to make enhanced identification of veracity of an unverified claim.
 
+
+## If you use the code, we appreciate it if you cite our paper
+~~~~
+@article{roy2022gdart,
+  title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
+  author={Roy, Saswata and Bhanu, Manish and Saxena, Shruti and Dandapat, Sourav and Chandra, Joydeep},
+  journal={Information Processing \& Management},
+  volume={59},
+  number={3},
+  pages={102927},
+  year={2022},
+  publisher={Elsevier}
+}
+
+
+
 ## Installation
 
 ### Prerequisite
@@ -53,17 +69,4 @@ conda env create -f myenv.yml
 ![](gDART.png)
 
 
-
-## If you use the code, we appreciate it if you cite our paper
-~~~~
-@article{roy2022gdart,
-  title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
-  author={Roy, Saswata and Bhanu, Manish and Saxena, Shruti and Dandapat, Sourav and Chandra, Joydeep},
-  journal={Information Processing \& Management},
-  volume={59},
-  number={3},
-  pages={102927},
-  year={2022},
-  publisher={Elsevier}
-}
 
