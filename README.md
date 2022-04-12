@@ -55,7 +55,7 @@ conda env create -f myenv.yml
 
 
 ## If you use the code, we appreciate it if you cite
-![](gDART.bib)
+~~~~
 @article{roy2022gdart,
   title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
   author={Roy, Saswata and Bhanu, Manish and Saxena, Shruti and Dandapat, Sourav and Chandra, Joydeep},
