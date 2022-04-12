@@ -54,7 +54,7 @@ conda env create -f myenv.yml
 
 
 
-## If you use the code, we appreciate it if you cite
+## If you use the code, we appreciate it if you cite our paper
 ~~~~
 @article{roy2022gdart,
   title={gDART: Improving rumor verification in social media with Discrete Attention Representations},
