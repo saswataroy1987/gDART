@@ -61,7 +61,7 @@ conda env create -f myenv.yml
 
 ### Details of gDART(BERT-fine tune) folder
  * This folder contains the implementaion of gDART with the __pre-trained Fine-tuing BERT model__ which is evaluated on COVID-19 fake news dataset.
- * We use BERT BASE version which has 12 encoders, 12 12 attention heads.
+ * We use BERT BASE version which has 12 encoders, 12 attention heads.
 
 
 
