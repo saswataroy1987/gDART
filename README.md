@@ -1,5 +1,6 @@
 # gDART: Improving Rumor Verification in Social Media with Discrete Attention Representations
 ## Authors : __Saswata Roy, Manish Bhanu, Shruti Saxena, Sourav Dandapat, Joydeep Chandra__
+###### Paper DOI is found at (https://doi.org/10.1016/j.ipm.2022.102927)
 ## Introduction
 gDART is capable of capturing multifarious correlations veiled among the sequence of words which existing DNN models including Transformer often overlook. Our proposed framework uses a Branch-CoRR Attention Network to extract highly informative features in branches, and employs Feature Fusion Network Component to identify deep embedded features and use them to make enhanced identification of veracity of an unverified claim. It is developed by above-mentioned researchers from DaNeS group (https://www.iitp.ac.in/~danes/) of IIT Patna, India.
 
